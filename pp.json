@@ -1,0 +1,160 @@
+{
+
+"description": "New York City Planned Parenthoods. See more at: https://www.plannedparenthood.org/about-us/local-state-offices#NewYork",
+
+"cities": [
+
+	{
+		"city": "New Haven",
+		"name": "Planned Parenthood of Southern New England, Inc.",
+		"address": "345 Whitney Ave, New Haven, Connecticut 06511",
+		"phone": "P: 203-865-5158",
+		"fax": "F: 203-624-1333"
+	},
+	{
+		"city": "Burlington, VT",
+		"name": "Planned Parenthood of Northern New England",
+		"address": "128 Lakeside Avenue, Suite 301 Burlington, VT 05401",
+		"phone": "1-800-287-8188",
+		"fax": "F: 1-802-660-9435"
+	},
+	{
+		"city": "Baltimore",
+		"name": "Planned Parenthood of Maryland",
+		"address": "330 N Howard Street, Baltimore, Maryland 21201",
+		"phone": "410-576-1400",
+		"fax": "F: 410-385-2762"
+	},
+	{
+		"city": "Boston",
+		"name": "Planned Parenthood League of Massachusetts",
+		"address": "1055 Commonwealth Avenue Boston, Massachusetts 02215",
+		"phone": "617-616-1660",
+		"fax": "F: 617-616-1652"
+	},
+	{
+		"city": "Rochester",
+		"name": "Planned Parenthood of Central and Western New York",
+		"address": "114 University Ave, Rochester, NY 14605",
+		"phone": "585-546-2771"
+	},
+	{
+		"city": "Albany",
+		"name": "State Public Affairs Office: Family Planning Advocates of New York State",
+		"address": "17 Elk Street, Albany, NY 12207",
+		"phone": "518-436-8408",
+		"fax": "F: 518-436-0004"
+	},
+	{
+		"city": "Hawthorne",
+		"name": "Planned Parenthood Hudson Peconic, Inc.",
+		"address": "4 Skyline Drive, Hawthorne, New York 10532",
+		"phone": "914-467-7300",
+		"fax": "F: 914-467-7344"
+	},
+	{
+		"city": "Poughkeepsie",
+		"name": "Planned Parenthood of the Mid-Hudson Valley, Inc.",
+		"address": "178 Church Street, Poughkeepsie, NY 12601",
+		"phone": "845-471-1530"
+	},
+	{
+		"city": "Utica",
+		"name": "Planned Parenthood Mohawk Hudson",
+		"address": "1424 Genesee Street, Utica, New York 13502",
+		"phone": "315-724-6146",
+		"fax": "F: 315-724-1411"
+	},
+	{
+		"city": "Hempstead",
+		"name": "Planned Parenthood of Nassau County",
+		"address": "540 Fulton Ave, Hempstead, New York 11550",
+		"phone": "516-750-2600",
+		"fax": "F: 516-483-3592"
+	},
+	{
+		"city": "New York",
+		"name": "Planned Parenthood of New York City, Inc.",
+		"address": "26 Bleecker Street, New York; New York 10012",
+		"phone": "12-274-7200",
+		"fax": "F: 212-274-7276"
+	},
+	{
+		"city": "Watertown",
+		"name": "Planned Parenthood of the North Country New York, Inc.",
+		"address": "160 Stone Street, Watertown, New York 13601",
+		"phone": "315-782-1818",
+		"fax": "F: 315-788-7937"
+	},
+	{
+		"city": "Ithaca",
+		"name": "Planned Parenthood of the Southern Finger Lakes",
+		"address": "620 West Seneca Street, Ithaca, NY 14850",
+		"phone": "607-273-1526"
+	},
+	{
+		"city": "Albany",
+		"name": "Upper Hudson Planned Parenthood, Inc.",
+		"address": "855 Central Avenue, Albany, NY 12206",
+		"phone": "(518) 434-5678"
+	},
+	{
+		"city": "Trenton",
+		"name":	"State Public Affairs Office: Planned Parenthood Affiliates of New Jersey",
+		"address": "210 W. State Street, Trenton, NJ 08608",
+		"phone": "609.278.5863",
+		"fax": "F: 609.599.4042"
+	},
+	{
+		"city": "Morristown",
+		"name":	"Affiliate Corporate Offices of Northern, Central and Southern New Jersey",
+		"address": "196 Speedwell Ave, Morristown, NJ 07960",
+		"phone": "973-539-9580",
+		"fax": "F: 973-539-3828"
+	},
+	{
+		"city": "Newark",
+		"name":	"Planned Parenthood of Metropolitan New Jersey",
+		"address": "151 Washington Street, Newark, NJ 07102",
+		"phone": "973-622-3900",
+		"fax": "973-596-2851"
+	},
+	{
+		"city": "Harrisburg",
+		"name": "State Public Affairs Office",
+		"address": "1514 North Second Street Harrisburg, PA 17102",
+		"phone": "717-234-3024",
+		"fax": "F: 717-234-3032"
+	},
+	{
+		"city": "Trexlertown",
+		"name": "Planned Parenthood Keystone",
+		"address": "PO Box 813 Trexlertown, PA 18087",
+		"phone": "610-481-0481",
+		"fax": "F: 610-481-0486"
+	},
+	{
+		"city": "Pittsburgh",
+		"name": "Planned Parenthood of Western Pennsylvania",
+		"address": "933 Liberty Avenue, 2nd Floor, Pittsburgh, PA 15222",
+		"phone": "412-434-8957",
+		"fax": "F: 412-434-8974"
+	},
+	{
+		"city": "Philadelphia",
+		"name": "Planned Parenthood Southeastern Pennsylvania",
+		"address": "1144 Locust Street, Philadelphia, PA 19107",
+		"phone": "215-351-5500",
+		"fax": "F: 215-351-5595"
+	},
+	{
+		"city": "Washington, D.C.",
+		"name": "Planned Parenthood of Washington, D.C.",
+		"address": "1108 16th Street NW Washington, D.C. 20036",
+		"phone": "P: 202-347-8500",
+		"fax": "F: 202-783-1007"
+	}
+
+
+	]
+	}
